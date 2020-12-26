@@ -1,6 +1,5 @@
-# GLM
-Generalized Linear Models Coursework
+Coursework on Generalized Linear models for the module SF2930 Regression Analysis @ KTH Royal Institute of Technology
 
-This notebook runs online on a webserver where all the package dependencies are handled via the install.R file.
+Implemented in R.
 
-To see the notebook and play around it with yourself, check it out at [https://mybinder.org/v2/gh/mnazaal/GLM/master]
+Online notebook demo available on binder [https://mybinder.org/v2/gh/mnazaal/GLM/master](here) where all the package dependencies are handled via the install.R file.
